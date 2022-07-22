@@ -1,9 +1,8 @@
-# Project badge
-## Project Badge with a link on your page
+# Project Badge with a link on your page
 
 For Fork me, Hire me, Star me, Donate or etc...
 
-code:
+[demo](https://khzg.github.io/project-badge/), code:
 ```sh
 <a href="default.html" target="_blank" class="projectBadge"
     style="
